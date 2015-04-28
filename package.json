@@ -1,0 +1,20 @@
+{
+  "name": "day_1",
+  "version": "0.0.0",
+  "description": "My First tropo server",
+  "main": "index.js",
+  "author": "Bradley Allen",
+  "license": "",
+  "dependencies": {
+    "tropo": "15.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "0.10"
+  },
+  "tropo": {
+    "uuid": "dd1f0b55-5acc-4884-abc0-74acf20c499a"
+  }
+}
